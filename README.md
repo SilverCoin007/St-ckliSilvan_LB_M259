@@ -6,6 +6,7 @@
 - Zeilen: 1'048'576
 - Spalten: time, low, high, open,close, volume
 
+
 1. Spalte: time
 Diese Spalte beinhaltet den Tag und die Uhrzeit vo welcher die Daten stammen.
 
