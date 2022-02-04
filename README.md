@@ -23,3 +23,12 @@ In dieser Spalte steht der Schlusskurs drin.
 
 6. Spalte: open
 In dieser Spalte der Wert der aktuellen Minute an..
+
+
+# Datenschutz Komfort
+
+Damit der Datenschutz gewährleistet wird, schaute ich, dass keine Personen bezogenen 
+Daten im Datenset vorkommen. Anhand des Datums, der höchsten und niedrigsten Anzahl
+Bitcoin-Aktien, dem Eröffnungskurs und dem Schlusskurs kann man keine Personen identifizieren.
+Genausowenig kann man anhand des Titels oder sonstigen Texten und und Wörtern Personen identifizieren 
+und somit das Datenschutzgesetz beeinträchtigen.
